@@ -1,7 +1,6 @@
 # Corbet Design
 
-Identity authority. Design system, marks, guidelines everyone consumes —
-the visual version of shared libs.
+Design systems, visual identities, and brand guidelines for Corbet projects.
 
 Sources of truth: `BRIEF.md`, `brand/` (marks, org avatars, split),
 review surfaces. Identity disputes resolve here; no org invents marks,
